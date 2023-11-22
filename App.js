@@ -33,11 +33,7 @@ function App() {
        data ? (data.map((e)=> <PostCard title={e.title} body = {e.body}/>)) : ( <p>No data</p> )           
       } 
      
-      // <h1>Count is 0</h1>
-      // <Count/>
-      // <Count/>
-      // <Count/>
-      // <Count/>                    
+                        
     </div>
   );
 }
