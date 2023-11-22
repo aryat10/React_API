@@ -7,4 +7,4 @@ I have used the API calling of Random API generator ~ https://randomuser.me/  wh
 
 
 
-For now its just a hand on how to implement the use of API not a real project or something 
+For now its just a hand on how to implement the use of API in React not a real project or something 
